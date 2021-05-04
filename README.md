@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  <strong>let's make something great!: ⤵️</strong>
+  <strong>let's make something great!</strong>
 </p>
 
 <p align="left">
