@@ -1,5 +1,9 @@
-<p align="left"> 
-  Hello, World! I'm Leonardo Alencar, a <strong>Front End Developer</strong> & <strong>UI/UX Designer</strong>.
+<h1 align="left"> 
+  Hello, World! I'm Leonardo Alencar
+</h1>
+
+<p align="left">
+<strong>Front End Developer</strong> & <strong>UI/UX Designer</strong>.
 </p>
 
 <p align="left">
