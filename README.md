@@ -27,7 +27,7 @@ ____________
 <br>
 
 <p align="center">
-  <strong>let's make something great!</strong>
+  <strong>get in touch!</strong>
 </p>
 
 <p align="center">
