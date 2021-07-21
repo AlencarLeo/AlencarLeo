@@ -6,7 +6,7 @@
 </p>
 
 
-<img src="LA.svg" width="260" height="260" align="right">
+<img src="LA.svg" width="270" height="270" align="right">
 <br>
 <p><strong>Skills</strong></p>
 
