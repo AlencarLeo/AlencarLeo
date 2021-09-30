@@ -43,4 +43,4 @@ ____________
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white&link=https://lalencar.vercel.app/"/>
   </a>
   
-  <p align='center'>Currently written a REACT README.md...</p>
+  <p align='center'>Currently writing a REACT README.md...</p>
