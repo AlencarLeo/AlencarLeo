@@ -10,7 +10,7 @@
 
 <p align="left">
  ✔️ Conhecimento: <strong>HTML, CSS, JavaScript, Sass, ReactJS, Styled Components.</strong></br>
- ⚠️ Ainda quero aprender: <strong>React Native, NextJS, Redux, Swift, SwiftUI.</strong>
+ ⚠️ Ainda quero aprender: <strong>NodeJS, MongoDB, NextJS, Redux, React Native, Swift, SwiftUI.</strong>
 </p>
 
 <p align="left">
