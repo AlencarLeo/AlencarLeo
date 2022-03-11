@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
- 🛠️ Ferramentas: <strong>VS Code, Figma, Vercel, Git e GitHub.</strong>
+ 🛠️ Ferramentas: <strong>VS Code, Postman, Figma, Vercel, Git e GitHub.</strong>
 </p>
 
 </br>
