@@ -9,15 +9,15 @@
 </br>
 
 <p align="left">
- ✔️ Conhecimento: <strong>HTML, CSS, JavaScript, Sass, ReactJS, Styled Components, NodeJS, ExpressJS, MongoDB.</strong></br>
+ ✔️ Conhecimento: <strong>HTML, CSS, JavaScript, Sass, ReactJS, Styled Components.</strong></br>
  
- 📚 Dando ênfase no momento à: <strong>NodeJS, ExpressJS, MongoDB.</strong></br>
+ 📚 Dando ênfase no momento à: <strong>JavaScript e ReactJS</strong></br>
  
- ⚠️ Ainda quero aprender: <strong>NextJS, Redux, React Native, Swift, SwiftUI.</strong>
+ ⚠️ Ainda quero aprender: <strong>NextJS, Redux, NodeJS, ExpressJS, MongoDB React Native, Swift, SwiftUI.</strong>
 </p>
 
 <p align="left">
- 🛠️ Ferramentas: <strong>VS Code, Postman, Figma, Vercel, Git e GitHub.</strong>
+ 🛠️ Ferramentas: <strong>VS Code, Figma, Vercel, Git e GitHub.</strong>
 </p>
 
 </br>
