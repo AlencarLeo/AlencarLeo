@@ -2,7 +2,7 @@
 
 <p align="left"> 
  <strong>Prazer! Me chamo Leonardo Alencar✌</strong></br>
- Sou desenvolvedor Front-End que ama JavaScript, apaixonado por UI Design.
+ Sou desenvolvedor Front-End que ama JavaScript. Apaixonado por UI Design.
 </p>
 
 </br>
