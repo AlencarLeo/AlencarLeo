@@ -9,7 +9,7 @@
 </br>
 
 <p align="left">
- ✔️ Conhecimento: <strong>HTML, CSS, JavaScript, Sass, ReactJS, Styled Components, NodeJS + packages e dependências, ExpressJS, MongoDB.</strong></br>
+ ✔️ Conhecimento: <strong>HTML, CSS, JavaScript, Sass, ReactJS, Styled Components, NodeJS, ExpressJS, MongoDB, SQL.</strong></br>
  
  ⚠️ Ainda quero aprender: <strong>NextJS, Redux, React Native, Swift, SwiftUI.</strong>
 </p>
