@@ -9,7 +9,7 @@
 </br>
 
 <p align="left">
- ✔️ Conhecimentos: <strong>HTML, CSS, JavaScript, Sass, ReactJS, Styled Components, NodeJS, ExpressJS, MongoDB, SQL.</strong></br>
+ ✔️ Conhecimentos: <strong>HTML, CSS, JavaScript, Sass, ReactJS, Styled Components, NodeJS, ExpressJS, MongoDB, TypeScript, SQL.</strong></br>
 </p>
 
 <p align="left">
