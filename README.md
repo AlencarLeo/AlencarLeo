@@ -1,5 +1,7 @@
 # Leonardo Alencar
 
-- Amo princípios da programação em geral e em off adoro codar em c++;
-- Tenho um instagram de dicas qual já ajudei muita gente, mas agora to meio off por lá :( ;
-- Desde sempre tento empreender e quebro, uma hora vai e por vez: 💻 Meu aplicativo empreendedor: https://foodez.app.br;
+- I love programming principles in general, and on the down low, I love coding in C++;
+- I’ve got an Instagram with tips that’s helped a lot of people, but I’m kinda inactive there now :(
+- I’ve always tried to start my own thing and failed, but one day it’ll work out;
+- My own delivery app running in Brazil: https://foodez.app.br;
+- Working on a new app for Australia: https://fastaffo.com | https://fastaffo.com.au;
