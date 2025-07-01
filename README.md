@@ -7,4 +7,8 @@
   
 - My own delivery app running in Brazil: https://foodez.app.br;
 - Working on a new app for Australia: https://fastaffo.com | https://fastaffo.com.au;
+
+--LINKS LASTS BLOG POSTS
+
+-- LINKS SOCIAL MIDIA
   --->
